@@ -2,3 +2,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+Vim Golf
+
+# 計測のやり方
+
+`qa` を押してスタート。`q`で終了。
+`"ap`で結果を表示
+`:set ruler`で行数カウント
+
+# 問題
+
+int barins, foovariable = 1;
+
+to
+
+int foovariable, barins = 1;
+
+# 目標
+
+Max 14
