@@ -1,0 +1,115 @@
+search
+:set hlsearch
+################################################################################
+The Time Traveller (for so it will be convenient to speak of him) was expounding
+a recondite matter to us. His grey eyes shone and twinkled, and his usually pale
+face was flushed and animated. The fire burned brightly, and the soft radiance
+of the incandescent lights in the lilies of silver caught the bubbles that
+flashed and passed in our glasses. Our chairs, being his patents, embraced and
+caressed us rather than submitted to be sat upon, and there was that luxurious
+after-dinner atmosphere when thought roams gracefully free of the trammels of
+precision. And he put it to us in this way—marking the points with a lean
+forefinger—as we sat and lazily admired his earnestness over this new paradox
+(as we thought it) and his fecundity.
+
+
+search & replace
+################################################################################
+# Global configuration
+
+DOMAIN=example.net      # The example.net domain.
+MAIL_SERVER=mail.example.net
+MAIL_PATH=/var/spool/mail
+
+# Local configuration
+
+LOCAL_DOMAIN=internal.example.net  # The internal.example.net domain.
+LOCAL_MAIL_SERVER=mail.internal.example.net
+MAIL_PATH=/var/spool/mail
+
+TextObjects
+################################################################################
+colors = ['red', 'green', 'blue']
+print(colors)
+<html>
+<p>This is <strong>so, so, very</strong> cool!</p>
+<i_made_this_up>There is text here.</i_made_this_up>
+
+scores = {
+  'boars': 6,
+  'saints': 7,
+  'bandits': 0
+}
+
+BACKUP_SERVER="deepfreeze01"
+MAIL_SERVER='mail13'
+HOST=`uname -n`
+
+VisualMode
+################################################################################
+# Before: "001",Q-Tips
+# After: 001-Q-Tips
+"001",Q-Tips
+"002",Paper Towels
+"003",Toilet Paper
+"004",Liquid Detergent
+"005",Mouthwash
+"006",Cereal
+"007",Bottled Water
+
+Macro
+################################################################################
+# Before: 2798265253
+# After:  (279) 826-5253
+2798265253
+6189034410
+1484945696
+4317906896
+2799430841
+1047478277
+6916410205
+3355819338
+5909236283
+2596559739
+8786805143
+5013328873
+7999514683
+4117838228
+9619739991
+8958276012
+9859346956
+3396189061
+1901204747
+8908085062
+5469255241
+9207001354
+2135694193
+4083018809
+9307531230
+8602990709
+7041571881
+3025976131
+3253417438
+2178283221
+2851396731
+7497215331
+5911931954
+7546225372
+7152074664
+2037462294
+2605323972
+5724916411
+2433503994
+6588636629
+3519232904
+9968775123
+5588989433
+8744437153
+2746440780
+1915053283
+6043090832
+8768871331
+8939255738
+9711410096
+
+
